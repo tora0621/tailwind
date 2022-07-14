@@ -47,6 +47,8 @@ const Home: NextPage = () => {
         </div>
       </main>
 
+      <h1 className='text-3xl font-bold underline'>Hello world!</h1>
+
       <footer className={styles.footer}>
         <a
           href='https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app'
